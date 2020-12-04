@@ -16,7 +16,7 @@
     "node": "6.14.1"
   },
   "dependencies": {
-    "@snyk/nodejs-runtime-agent": "^1.31.0",
+    "@snyk/nodejs-runtime-agent": "^1.46.1",
     "adm-zip": "0.4.7",
     "body-parser": "1.9.0",
     "cfenv": "^1.0.4",
@@ -42,7 +42,7 @@
     "npmconf": "0.0.24",
     "optional": "^0.1.3",
     "package.json": "^2.0.1",
-    "snyk": "^1.278.1",
+    "snyk": "^1.431.1",
     "st": "0.2.4",
     "stream-buffers": "^3.0.1",
     "tap": "^5.7.0"
