@@ -322,7 +322,6 @@ paths:
       tags:
         - store
       summary: Returns pet inventories by status
-      deprecated: true
       description: Returns a map of status codes to quantities
       operationId: getInventory
       x-swagger-router-controller: OrderController
